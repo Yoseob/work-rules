@@ -1,0 +1,16 @@
+{
+  "name": "work-rules",
+  "owner": {
+    "name": "yoseob.lee"
+  },
+  "metadata": {
+    "description": "공통 작업 규칙 플러그인 배포용"
+  },
+  "plugins": [
+    {
+      "name": "work-rules",
+      "description": "프로젝트와 무관한 공통 작업 규칙(소통·진행 순서·검증·배포·git)과 화면 E2E 체크리스트 스킬",
+      "source": "./"
+    }
+  ]
+}
